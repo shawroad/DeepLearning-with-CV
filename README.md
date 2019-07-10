@@ -4,7 +4,9 @@
 
 1.1 [MobileNetV1原始模型](https://github.com/shawroad/DeepLearning-with-CV/blob/master/MobileNet/mobilenetV1.py)
 
-1.2 [MinimobileNet](https://github.com/shawroad/DeepLearning-with-CV/blob/master/MobileNet/MiniMobileNet.py) 自己结合三种卷积，设计的一个网络。        
+
+1.2 [MinimobileNet](https://github.com/shawroad/DeepLearning-with-CV/blob/master/MobileNet/MiniMobileNet.py) 自己结合三种卷积，设计的一个网络,准确率不过。        
+
 
 1.3几种卷积的卷积过程
 
